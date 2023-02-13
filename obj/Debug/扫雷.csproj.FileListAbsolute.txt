@@ -1,0 +1,12 @@
+K:\ProgramProjects\扫雷\obj\Debug\扫雷.csproj.AssemblyReference.cache
+K:\ProgramProjects\扫雷\obj\Debug\扫雷.csproj.SuggestedBindingRedirects.cache
+K:\ProgramProjects\扫雷\obj\Debug\扫雷.Form1.resources
+K:\ProgramProjects\扫雷\obj\Debug\扫雷.Game.resources
+K:\ProgramProjects\扫雷\obj\Debug\扫雷.Properties.Resources.resources
+K:\ProgramProjects\扫雷\obj\Debug\扫雷.csproj.GenerateResource.cache
+K:\ProgramProjects\扫雷\obj\Debug\扫雷.csproj.CoreCompileInputs.cache
+K:\ProgramProjects\扫雷\bin\Debug\扫雷.exe.config
+K:\ProgramProjects\扫雷\bin\Debug\扫雷.exe
+K:\ProgramProjects\扫雷\bin\Debug\扫雷.pdb
+K:\ProgramProjects\扫雷\obj\Debug\扫雷.exe
+K:\ProgramProjects\扫雷\obj\Debug\扫雷.pdb
